@@ -1,3 +1,3 @@
 # Test repository
 
-qqweqwe
+This is my personal blog, which I made up using video lessons in November 2022.
