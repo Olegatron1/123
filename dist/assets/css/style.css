@@ -371,10 +371,6 @@ body {
     color: #fff;
 }
 
-body.no-scroll, body.show-sidebar {
-    overflow: hidden;
-}
-
 *,
 *:before,
 *:after {
